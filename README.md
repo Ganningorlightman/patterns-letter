@@ -1,3 +1,3 @@
-# email-static-examples
+# email examples
 
 https://emailsoldiers.ru/blog/html-guideline
